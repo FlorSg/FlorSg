@@ -31,7 +31,7 @@ El BootCamp de SoyHenry, me ha permitido adquirir el conocimiento y experiencia 
 
 [Linkedin](https://www.linkedin.com/in/florencia-sgroy-683867102/)
 
-[Correo](florsgroy@gmail.com)
+[Correo](dev.fsgroy@gmail.com)
 
 
 
