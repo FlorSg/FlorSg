@@ -1,6 +1,6 @@
 ### Hola bienvenido/a a mi perfil 👋
 
-<img width="450" alt="Imagen de fondo" src="https://thevalley.es/wp-content/uploads/2022/05/3.jpg">
+<img width="450" alt="Imagen de fondo" src="http://www.cioal.com/wp-content/uploads/seguridad-futuro.jpg">
 
 - 👯 Estoy buscando colaborar en nuevos proyectos
 - 💬 Puedes preguntarme sobre: __React, Javascript, etc__
