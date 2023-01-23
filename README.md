@@ -1,5 +1,7 @@
 ### Hola bienvenido/a a mi perfil 👋
 
+### ¿Quién soy? Soy una programadora Fullstack, orientada al Front-end
+
 <img width="450" alt="Imagen de fondo" src="http://www.cioal.com/wp-content/uploads/seguridad-futuro.jpg">
 
 - 👯 Estoy buscando colaborar en nuevos proyectos
@@ -25,8 +27,11 @@ El BootCamp de SoyHenry, me ha permitido adquirir el conocimiento y experiencia 
 * CSS
 ***
 
-### - 📫 Como me puedes contactar: [Linkedin](https://www.linkedin.com/in/florencia-sgroy-683867102/)
-Correo florsgroy@gmail.com
+### - 📫 Como me puedes contactar: 
+
+[Linkedin](https://www.linkedin.com/in/florencia-sgroy-683867102/)
+
+[Correo](florsgroy@gmail.com)
 
 
 
