@@ -17,11 +17,14 @@ Mi objetivo es impactar el mundo con el código. Me apasiona ampliar mi perspect
 El BootCamp de SoyHenry, me ha permitido adquirir el conocimiento y experiencia fundamental para despegar. Por lo que las principales tecnologías que manejo son:
 ***
 * Javascript
-* React.js
-* Node.js
+* ReactJS
+* VueJS
+* NodeJs
 * Express
 * PostgresSQL
+* MySQL
 * Sequelize
+* Python
 * GIT
 * HTML
 * CSS
